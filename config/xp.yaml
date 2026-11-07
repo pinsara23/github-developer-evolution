@@ -1,0 +1,10 @@
+contribution_xp: 10
+streak_milestones:
+  3: 25
+  7: 75
+  30: 300
+  100: 1000
+  365: 5000
+project_default_xp: 500
+level_base_xp: 100
+level_growth: 1.35

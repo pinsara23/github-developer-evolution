@@ -1,0 +1,19 @@
+levels:
+  - level: 1
+    name: Foundation
+    unlock: [developer-house, road, tree]
+  - level: 3
+    name: First Block
+    unlock: [park, streetlight, small-office]
+  - level: 5
+    name: Startup District
+    unlock: [dev-lab, townhouse, server-room]
+  - level: 10
+    name: Infrastructure Hub
+    unlock: [office-tower, data-center, plaza]
+  - level: 25
+    name: Technology City
+    unlock: [advanced-hq, bridge, solar-array]
+  - level: 50
+    name: Developer Metropolis
+    unlock: [skyline-tower, metro, satellite-dish]

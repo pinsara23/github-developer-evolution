@@ -1,0 +1,55 @@
+{
+  "achievements": [
+    {
+      "icon": "*",
+      "id": "first-contribution",
+      "name": "First Contribution",
+      "unlocked_at": "2026-11-07T08:02:55.243480+00:00"
+    }
+  ],
+  "active_days": 1,
+  "categories": {
+    "commits": 3,
+    "issues": 0,
+    "pull_requests": 0,
+    "restricted": 0,
+    "reviews": 0
+  },
+  "city_level": 1,
+  "contribution_days": {
+    "2026-11-07": 3
+  },
+  "current_streak": 1,
+  "last_sync": "2026-11-07T08:03:47.459257+00:00",
+  "level": 1,
+  "lifetime_xp": 80,
+  "longest_streak": 1,
+  "processed_days": {
+    "2026-11-07": 3
+  },
+  "projects": [],
+  "recent_milestones": [
+    "First Contribution"
+  ],
+  "total_contributions": 6,
+  "unlocked_buildings": [
+    "developer-house",
+    "road",
+    "tree"
+  ],
+  "username": "pinsara23",
+  "version": 1,
+  "xp": 80,
+  "xp_history": [
+    {
+      "date": "2026-11-07",
+      "reason": "contributions",
+      "xp": 30
+    },
+    {
+      "date": "2026-11-07T08:02:55.243480+00:00",
+      "reason": "achievement:first-contribution",
+      "xp": 50
+    }
+  ]
+}

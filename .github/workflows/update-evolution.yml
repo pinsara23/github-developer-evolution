@@ -1,0 +1,36 @@
+name: Update Developer Evolution
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: developer-evolution
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  evolve:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Synchronize evolution
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: pinsara23
+          PYTHONPATH: src
+        run: python -m github_evolution.main
+      - name: Commit generated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json generated/*.svg README.md
+          git diff --cached --quiet || git commit -m "chore: update developer evolution"
+          git push

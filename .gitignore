@@ -38,6 +38,12 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
+.venv/
+.env
+!data/state.json
+*.egg-info/
+.pytest_cache/
+
 .tox/
 .nox/
 .coverage
