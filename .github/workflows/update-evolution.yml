@@ -23,7 +23,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Synchronize evolution
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           GITHUB_USERNAME: pinsara23
           PYTHONPATH: src
         run: python -m github_evolution.main
