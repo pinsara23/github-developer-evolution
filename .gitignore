@@ -77,7 +77,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
-data
+
 generated/.
 
 # PyBuilder
@@ -226,3 +226,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Allow developer evolution state to be committed
+!data/
+data/*
+!data/state.json
