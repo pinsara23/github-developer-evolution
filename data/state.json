@@ -25,15 +25,15 @@
       "unlocked_at": "2026-11-07T08:32:15.711136+00:00"
     }
   ],
-  "active_days": 94,
+  "active_days": 95,
   "categories": {
-    "commits": 123,
+    "commits": 134,
     "issues": 0,
-    "pull_requests": 2,
+    "pull_requests": 5,
     "restricted": 133,
     "reviews": 0
   },
-  "city_level": 6,
+  "city_level": 7,
   "contribution_days": {
     "2025-11-07": 1,
     "2025-11-08": 0,
@@ -400,12 +400,13 @@
     "2026-11-04": 1,
     "2026-11-05": 5,
     "2026-11-06": 0,
-    "2026-11-07": 9
+    "2026-11-07": 17,
+    "2026-11-08": 8
   },
-  "current_streak": 1,
-  "last_sync": "2026-11-07T10:08:15.174833+00:00",
-  "level": 6,
-  "lifetime_xp": 3400,
+  "current_streak": 2,
+  "last_sync": "2026-11-08T04:10:32.049189+00:00",
+  "level": 7,
+  "lifetime_xp": 3560,
   "longest_streak": 9,
   "processed_days": {
     "2025-11-07": 1,
@@ -501,7 +502,8 @@
     "2026-11-03": 2,
     "2026-11-04": 1,
     "2026-11-05": 5,
-    "2026-11-07": 9
+    "2026-11-07": 17,
+    "2026-11-08": 8
   },
   "projects": [],
   "recent_milestones": [
@@ -509,9 +511,10 @@
     "Level up: 1 -> 6",
     "Century of Code",
     "Pull Request Pilot",
-    "Rising Developer"
+    "Rising Developer",
+    "Level up: 6 -> 7"
   ],
-  "total_contributions": 275,
+  "total_contributions": 290,
   "unlocked_buildings": [
     "dev-lab",
     "developer-house",
@@ -525,7 +528,7 @@
   ],
   "username": "pinsara23",
   "version": 1,
-  "xp": 3400,
+  "xp": 3560,
   "xp_history": [
     {
       "date": "2026-11-07",
@@ -571,6 +574,11 @@
       "date": "2026-11-07",
       "reason": "contributions",
       "xp": 10
+    },
+    {
+      "date": "2026-11-08",
+      "reason": "contributions",
+      "xp": 160
     }
   ]
 }
