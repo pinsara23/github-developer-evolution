@@ -23,14 +23,20 @@
       "id": "level-5",
       "name": "Rising Developer",
       "unlocked_at": "2026-11-07T08:32:15.711136+00:00"
+    },
+    {
+      "icon": 3,
+      "id": "streak-3",
+      "name": "Spark",
+      "unlocked_at": "2026-11-09T07:02:24.250410+00:00"
     }
   ],
-  "active_days": 95,
+  "active_days": 96,
   "categories": {
-    "commits": 137,
+    "commits": 141,
     "issues": 0,
-    "pull_requests": 5,
-    "restricted": 133,
+    "pull_requests": 7,
+    "restricted": 135,
     "reviews": 0
   },
   "city_level": 7,
@@ -401,12 +407,13 @@
     "2026-11-05": 5,
     "2026-11-06": 0,
     "2026-11-07": 17,
-    "2026-11-08": 11
+    "2026-11-08": 16,
+    "2026-11-09": 4
   },
-  "current_streak": 2,
-  "last_sync": "2026-11-08T06:33:09.703672+00:00",
+  "current_streak": 3,
+  "last_sync": "2026-11-09T07:02:24.257150+00:00",
   "level": 7,
-  "lifetime_xp": 3590,
+  "lifetime_xp": 3755,
   "longest_streak": 9,
   "processed_days": {
     "2025-11-07": 1,
@@ -503,7 +510,8 @@
     "2026-11-04": 1,
     "2026-11-05": 5,
     "2026-11-07": 17,
-    "2026-11-08": 11
+    "2026-11-08": 16,
+    "2026-11-09": 4
   },
   "projects": [],
   "recent_milestones": [
@@ -512,9 +520,11 @@
     "Century of Code",
     "Pull Request Pilot",
     "Rising Developer",
-    "Level up: 6 -> 7"
+    "Level up: 6 -> 7",
+    "streak:3:2026-11-09",
+    "Spark"
   ],
-  "total_contributions": 293,
+  "total_contributions": 302,
   "unlocked_buildings": [
     "dev-lab",
     "developer-house",
@@ -528,7 +538,7 @@
   ],
   "username": "pinsara23",
   "version": 1,
-  "xp": 3590,
+  "xp": 3755,
   "xp_history": [
     {
       "date": "2026-11-07",
@@ -584,6 +594,16 @@
       "date": "2026-11-08",
       "reason": "contributions",
       "xp": 30
+    },
+    {
+      "date": "2026-11-09",
+      "reason": "contributions",
+      "xp": 90
+    },
+    {
+      "date": "2026-11-09T07:02:24.250410+00:00",
+      "reason": "achievement:streak-3",
+      "xp": 50
     }
   ]
 }
