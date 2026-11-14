@@ -29,11 +29,17 @@
       "id": "streak-3",
       "name": "Spark",
       "unlocked_at": "2026-11-09T07:02:24.250410+00:00"
+    },
+    {
+      "icon": 7,
+      "id": "streak-7",
+      "name": "Weekly Rhythm",
+      "unlocked_at": "2026-11-14T06:54:02.538500+00:00"
     }
   ],
-  "active_days": 99,
+  "active_days": 100,
   "categories": {
-    "commits": 151,
+    "commits": 153,
     "issues": 0,
     "pull_requests": 7,
     "restricted": 153,
@@ -412,12 +418,13 @@
     "2026-11-10": 6,
     "2026-11-11": 9,
     "2026-11-12": 6,
-    "2026-11-13": 0
+    "2026-11-13": 2,
+    "2026-11-14": 0
   },
-  "current_streak": 6,
-  "last_sync": "2026-11-13T07:05:22.346604+00:00",
+  "current_streak": 7,
+  "last_sync": "2026-11-14T06:54:02.550489+00:00",
   "level": 7,
-  "lifetime_xp": 4035,
+  "lifetime_xp": 4280,
   "longest_streak": 9,
   "processed_days": {
     "2025-11-07": 1,
@@ -518,7 +525,8 @@
     "2026-11-09": 11,
     "2026-11-10": 6,
     "2026-11-11": 9,
-    "2026-11-12": 6
+    "2026-11-12": 6,
+    "2026-11-13": 2
   },
   "projects": [],
   "recent_milestones": [
@@ -529,9 +537,11 @@
     "Rising Developer",
     "Level up: 6 -> 7",
     "streak:3:2026-11-09",
-    "Spark"
+    "Spark",
+    "streak:7:2026-11-14",
+    "Weekly Rhythm"
   ],
-  "total_contributions": 330,
+  "total_contributions": 332,
   "unlocked_buildings": [
     "dev-lab",
     "developer-house",
@@ -545,7 +555,7 @@
   ],
   "username": "pinsara23",
   "version": 1,
-  "xp": 4035,
+  "xp": 4280,
   "xp_history": [
     {
       "date": "2026-11-07",
@@ -631,6 +641,16 @@
       "date": "2026-11-13",
       "reason": "contributions",
       "xp": 60
+    },
+    {
+      "date": "2026-11-14",
+      "reason": "contributions",
+      "xp": 20
+    },
+    {
+      "date": "2026-11-14T06:54:02.538500+00:00",
+      "reason": "achievement:streak-7",
+      "xp": 150
     }
   ]
 }
