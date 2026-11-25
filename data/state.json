@@ -37,12 +37,12 @@
       "unlocked_at": "2026-11-14T06:54:02.538500+00:00"
     }
   ],
-  "active_days": 109,
+  "active_days": 110,
   "categories": {
     "commits": 198,
     "issues": 0,
     "pull_requests": 9,
-    "restricted": 170,
+    "restricted": 171,
     "reviews": 0
   },
   "city_level": 8,
@@ -429,12 +429,13 @@
     "2026-11-21": 0,
     "2026-11-22": 2,
     "2026-11-23": 0,
-    "2026-11-24": 4
+    "2026-11-24": 4,
+    "2026-11-25": 1
   },
-  "current_streak": 1,
-  "last_sync": "2026-11-24T10:17:36.277439+00:00",
+  "current_streak": 2,
+  "last_sync": "2026-11-25T08:59:27.546283+00:00",
   "level": 8,
-  "lifetime_xp": 4920,
+  "lifetime_xp": 4930,
   "longest_streak": 14,
   "processed_days": {
     "2025-11-07": 1,
@@ -545,7 +546,8 @@
     "2026-11-19": 10,
     "2026-11-20": 2,
     "2026-11-22": 2,
-    "2026-11-24": 4
+    "2026-11-24": 4,
+    "2026-11-25": 1
   },
   "projects": [],
   "recent_milestones": [
@@ -561,7 +563,7 @@
     "Weekly Rhythm",
     "Level up: 7 -> 8"
   ],
-  "total_contributions": 396,
+  "total_contributions": 397,
   "unlocked_buildings": [
     "dev-lab",
     "developer-house",
@@ -575,7 +577,7 @@
   ],
   "username": "pinsara23",
   "version": 1,
-  "xp": 4920,
+  "xp": 4930,
   "xp_history": [
     {
       "date": "2026-11-07",
@@ -706,6 +708,11 @@
       "date": "2026-11-24",
       "reason": "contributions",
       "xp": 40
+    },
+    {
+      "date": "2026-11-25",
+      "reason": "contributions",
+      "xp": 10
     }
   ]
 }
