@@ -35,14 +35,20 @@
       "id": "streak-7",
       "name": "Weekly Rhythm",
       "unlocked_at": "2026-11-14T06:54:02.538500+00:00"
+    },
+    {
+      "icon": 10,
+      "id": "prs-10",
+      "name": "Merge Current",
+      "unlocked_at": "2026-11-26T08:46:05.895320+00:00"
     }
   ],
-  "active_days": 110,
+  "active_days": 111,
   "categories": {
-    "commits": 198,
+    "commits": 341,
     "issues": 0,
-    "pull_requests": 9,
-    "restricted": 171,
+    "pull_requests": 13,
+    "restricted": 33,
     "reviews": 0
   },
   "city_level": 8,
@@ -430,12 +436,13 @@
     "2026-11-22": 2,
     "2026-11-23": 0,
     "2026-11-24": 4,
-    "2026-11-25": 1
+    "2026-11-25": 10,
+    "2026-11-26": 6
   },
-  "current_streak": 2,
-  "last_sync": "2026-11-25T08:59:27.546283+00:00",
+  "current_streak": 3,
+  "last_sync": "2026-11-26T08:46:05.906179+00:00",
   "level": 8,
-  "lifetime_xp": 4930,
+  "lifetime_xp": 5405,
   "longest_streak": 14,
   "processed_days": {
     "2025-11-07": 1,
@@ -547,11 +554,11 @@
     "2026-11-20": 2,
     "2026-11-22": 2,
     "2026-11-24": 4,
-    "2026-11-25": 1
+    "2026-11-25": 10,
+    "2026-11-26": 6
   },
   "projects": [],
   "recent_milestones": [
-    "First Contribution",
     "Level up: 1 -> 6",
     "Century of Code",
     "Pull Request Pilot",
@@ -561,9 +568,11 @@
     "Spark",
     "streak:7:2026-11-14",
     "Weekly Rhythm",
-    "Level up: 7 -> 8"
+    "Level up: 7 -> 8",
+    "streak:3:2026-11-26",
+    "Merge Current"
   ],
-  "total_contributions": 397,
+  "total_contributions": 410,
   "unlocked_buildings": [
     "dev-lab",
     "developer-house",
@@ -577,7 +586,7 @@
   ],
   "username": "pinsara23",
   "version": 1,
-  "xp": 4930,
+  "xp": 5405,
   "xp_history": [
     {
       "date": "2026-11-07",
@@ -713,6 +722,16 @@
       "date": "2026-11-25",
       "reason": "contributions",
       "xp": 10
+    },
+    {
+      "date": "2026-11-26",
+      "reason": "contributions",
+      "xp": 150
+    },
+    {
+      "date": "2026-11-26T08:46:05.895320+00:00",
+      "reason": "achievement:prs-10",
+      "xp": 300
     }
   ]
 }
