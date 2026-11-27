@@ -43,11 +43,11 @@
       "unlocked_at": "2026-11-26T08:46:05.895320+00:00"
     }
   ],
-  "active_days": 111,
+  "active_days": 112,
   "categories": {
-    "commits": 341,
+    "commits": 340,
     "issues": 0,
-    "pull_requests": 13,
+    "pull_requests": 14,
     "restricted": 33,
     "reviews": 0
   },
@@ -437,12 +437,13 @@
     "2026-11-23": 0,
     "2026-11-24": 4,
     "2026-11-25": 10,
-    "2026-11-26": 6
+    "2026-11-26": 6,
+    "2026-11-27": 2
   },
-  "current_streak": 3,
-  "last_sync": "2026-11-26T08:46:05.906179+00:00",
+  "current_streak": 4,
+  "last_sync": "2026-11-27T08:57:18.655339+00:00",
   "level": 8,
-  "lifetime_xp": 5405,
+  "lifetime_xp": 5425,
   "longest_streak": 14,
   "processed_days": {
     "2025-11-07": 1,
@@ -555,7 +556,8 @@
     "2026-11-22": 2,
     "2026-11-24": 4,
     "2026-11-25": 10,
-    "2026-11-26": 6
+    "2026-11-26": 6,
+    "2026-11-27": 2
   },
   "projects": [],
   "recent_milestones": [
@@ -586,7 +588,7 @@
   ],
   "username": "pinsara23",
   "version": 1,
-  "xp": 5405,
+  "xp": 5425,
   "xp_history": [
     {
       "date": "2026-11-07",
@@ -732,6 +734,11 @@
       "date": "2026-11-26T08:46:05.895320+00:00",
       "reason": "achievement:prs-10",
       "xp": 300
+    },
+    {
+      "date": "2026-11-27",
+      "reason": "contributions",
+      "xp": 20
     }
   ]
 }
